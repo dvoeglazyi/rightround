@@ -1,4 +1,4 @@
-package gorewind
+package rightround
 
 // combineTwoEphemeris выполняет линейную комбинацию двух эфемерид.
 func (e *Ephemeris) combineTwoEphemeris(object1, basis1 int, object2, basis2 int, coefficient1 float64, coefficient2 float64, date0, date1 float64, withVelocity bool) (Coords, Coords, error) {

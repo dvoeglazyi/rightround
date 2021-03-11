@@ -1,4 +1,4 @@
-package gorewind
+package rightround
 
 // calcChebyshevPolynomials вычисляет значения полинома Чебышева.
 // positionInInterval - позиция внутри интервала [-1..1].

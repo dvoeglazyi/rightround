@@ -1,4 +1,4 @@
-package gorewind
+package rightround
 
 import (
 	"fmt"

@@ -1,4 +1,4 @@
-package gorewind
+package rightround
 
 // Единицы измерения расстояния.
 const (

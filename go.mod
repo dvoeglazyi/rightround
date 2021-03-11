@@ -1,3 +1,3 @@
-module github.com/dvoeglazyi/gorewind
+module github.com/dvoeglazyi/rightround
 
 go 1.14
